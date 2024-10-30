@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Mention Notifcations\n"
+"POT-Creation-Date: 2016-04-21 15:02+0200\n"
+"PO-Revision-Date: 2016-04-21 15:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: Sola Plugins <support@solaplugins.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress38\\wp-content\\plugins"
+"\\comment-mention-notifications\n"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:121
+msgid ""
+"This notification was sent using Comment Mention Notifications plugin for "
+"WordPress"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:176
+msgid "You were mentioned in a comment"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:190
+msgid "Email Mention Notifications"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:197
+msgid "Enable Mention Notification"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:207
+msgid "Email Header"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:217
+msgid "Email Body"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:227
+msgid "Email Footer"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\comment-mention-notifications/comment-mention-notifications.php:238
+msgid ""
+"Choose to enable notifications if a user is mentioned with the \"@\" symbol "
+"before their name ie @WordPress"
+msgstr ""
